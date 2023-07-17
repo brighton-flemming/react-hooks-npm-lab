@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo 'Deez Nuts!'",
     "start": "serve",
-    "build" : "esbuild index,js --bundle --outfile=dist/out.js"
+    "build" : "esbuild index.js --bundle --outfile=dist/out.js"
   },
   "author": "",
   "license": "ISC",
